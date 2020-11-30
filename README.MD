@@ -1,4 +1,3 @@
-
 # Git
  - Git is officially defined as a distributed version control system (VCS).
  - It's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.
